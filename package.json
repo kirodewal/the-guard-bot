@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheDevs-Network/bot.git"
+    "url": "git+https://github.com/kirodewal/the-guard-bot.git"
   },
   "keywords": [
     "bot",
@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/TheDevs-Network/the-guard-bot/issues"
   },
-  "homepage": "https://github.com/TheDevs-Network/the-guard-bot/",
+  "homepage": "https://github.com/kirodewal/the-guard-bot/",
   "dependencies": {
     "daggy": "^1.2.0",
     "dedent-js": "^1.0.1",
